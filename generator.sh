@@ -32,6 +32,6 @@ done 3<titles.txt 4<index_files.txt >> html.txt
 python3 insert.py
 python3 find_markdown.py
 
-rm html.txt
+# rm html.txt
 
 echo "end"
