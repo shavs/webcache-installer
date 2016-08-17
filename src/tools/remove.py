@@ -34,7 +34,12 @@ def remove_html():
             break
         else:
             # debug += 1
-            del data[line_start]
+            # Need to add one line of extra whitespace in the list item before
+            if data[line_start] != '':
+                # Do nothing
+                break
+            else:
+                del data[line_start]
 
     # write to file
     f = open('../index.html','w')

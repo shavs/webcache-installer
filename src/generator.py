@@ -72,6 +72,14 @@ for root, dirs, files in os.walk(str(os.path.abspath(os.path.join(os.path.dirnam
               # Remove the ending title tag
               line = line.replace("</title>", "")
 
+              # Remove the special character /
+
+              title_match_special = re.search(r'[/].*', line)
+
+              # if there is a match:
+              if title_match_special:
+                  line = line.replace("/", "")
+
               # Now we have the raw content, we are now gonna add the two other tags
               line = '        <h2>' + line + '</h2>\n'
 
