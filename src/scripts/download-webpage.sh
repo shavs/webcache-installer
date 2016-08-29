@@ -14,7 +14,6 @@ clear;
 echo -e "Please enter archive and folder name: "
 read webarc
 # Just makes sure that the variable is set to something that would be useful
-# echo -e "Variable set to $webarc \n"
 # echo -e "Website given: $1"
 
 # We need the original directory that this was triggered in, and also
@@ -29,16 +28,18 @@ currentdir=$(pwd)
 websites=
 
 # Now we echo out these as a test (not really needed any more, just for testing)
+# echo -e "Variable set to $webarc \n"
 # echo -e "Currentdir: $currentdir";
 # echo -e "Websites location: $websites";
+# echo -e "Current URL input: $1"
 
 cd "$websites";
 mkdir "$webarc";
 cd "$webarc";
 # Now we do the actual downloading.
-wget --convert-links --warc-file="memes" \
+wget --convert-links --warc-file="$webarc" \
      --adjust-extension --page-requisites --no-parent --no-verbose --wait=1 \
-     --user-agent=Mozilla --span-hosts http://www.linfo.org/bin.html
+     --user-agent=Mozilla --span-hosts "$1"
 
 # After this has been done, we are then going to change
 # back to the original directory
