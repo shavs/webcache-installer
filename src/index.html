@@ -37,6 +37,43 @@
       <!-- #GenCode -->
       <!-- #EndGenCode -->
       <script type="text/javascript">
+      // This search function uses these rules:
+      // 1. Only look in the same case as the search input
+      // 2. Hide all results that do not need to be shown
+      // 3. Only searches through all of the heading tags, not the description.
+        document.getElementsByTagName('input')[0].addEventListener('keyup', function () {
+          // Get the tags that matter
+          h2s = document.getElementsByTagName('h2');
+          // Get the string information
+          string = document.getElementsByTagName('input')[0].value;
+          // We also need to get the section tag above it
+          sections = document.getElementsByTagName('section');
+
+          // Create an empty array
+          h2array = [];
+          // Loop through the h2 to get the values of each of them
+          for (var i = 0; i < h2s.length; i++) {
+            // Create an array of text from the innerHTML of each h2
+            h2array.push(h2s[i].innerHTML);
+          }
+
+          // Hide all of the sections
+          document.querySelector('section').style.display = 'none';
+          // Separator for each element
+          console.log('--------------------------------------------------');
+          for (var n = 0; n < h2array.length; n++) {
+            if (h2array[n].includes(string)) {
+              // Print out a match
+              console.log("We have a match for: " + h2array[n]);
+              // Show a match for this element
+              document.getElementsByTagName('section')[n].style.display = 'block';
+            } else {
+              // Hide the element
+              document.getElementsByTagName('section')[n].style.display = 'none';
+            }
+          }
+          console.log('--------------------------------------------------');
+        });
 
       </script>
     </main>
