@@ -51,7 +51,7 @@ for root, dirs, files in os.walk(str(os.path.abspath(os.path.join(os.path.dirnam
           index_files.append(str(root) + str(file) + '\n')
           # Now that we have the file, we might as well look for the title tag
           # too, whilst we still have the whole file path
-          html_index_file_read = open(os.path.join(root, file))
+          html_index_file_read = open(os.path.join(root, file), encoding='utf-8', errors='ignore')
           html_index_file_data = html_index_file_read.readlines()
           html_index_file_read.close()
           # Now that we have the contents of the file, we need to read it line
