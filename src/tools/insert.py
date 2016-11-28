@@ -1,6 +1,21 @@
-#!/usr/bin/env python3 -B
+#!/usr/bin/env python3
 import fileinput
 import os
+from html.parser import HTMLParser
+
+# Copy-pasted verbatim from 20.2 html.parser documentation
+class MyHTMLParser(HTMLParser):
+  def handle_starttag(self, tag, attrs):
+    print("Encountered a start tag:", tag)
+
+  def handle_endtag(self, tag):
+    print("Encountered an end tag:", tag)
+
+  def handle_data(self, data):
+    print("Encountered some data:", data)
+
+parser = MyHTMLParser()
+
 # Insert the file
 def insert_html():
     f = open('../index.html', 'r')

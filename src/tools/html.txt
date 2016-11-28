@@ -1,0 +1,256 @@
+      <section>
+        <h2>Applying the Linus Torvalds “Good Taste” Coding Requirement – Medium</h2>
+        <a href="file:////home/steve/webcache-installer/src/websites/index.html">Link</a>
+        <div class="comments">
+
+
+        </div>
+      </section>
+      <section>
+        <h2>[Update] Windows XP All Editions Universal Product Keys collection | AppNee Freeware Picks, Reviews &amp; Downloads</h2>
+        <a href="file:////home/steve/webcache-installer/src/websites/WinXPKeys/appnee.com/windows-xp-all-editions-universal-product-keys-collection/index.html">Link</a>
+        <div class="comments">
+
+
+        </div>
+      </section>
+      <section>
+        <h2>CSS Reference - A free visual guide to the most popular CSS properties.</h2>
+        <a href="file:////home/steve/webcache-installer/src/websites/CSS_VisualReference/cssreference.io/index.html">Link</a>
+        <div class="comments">
+
+
+        </div>
+      </section>
+      <section>
+        <h2>python - UnicodeDecodeError: &#39;utf8&#39; codec can&#39;t decode byte 0xa5 in position 0: invalid start byte - Stack Overflow</h2>
+        <a href="file:////home/steve/webcache-installer/src/websites/StackOverflow_unicode_decode_problem/stackoverflow.com/questions/22216076/unicodedecodeerror-utf8-codec-cant-decode-byte-0xa5-in-position-0-invalid-s.html">Link</a>
+        <div class="comments">
+
+
+        </div>
+      </section>
+      <section>
+        <h2>Game Freak on Pokemon&#039;s sustained success, keeping the main games on handhelds, more - Nintendo Everything</h2>
+        <a href="file:////home/steve/webcache-installer/src/websites/GameFreak_EDGE_Interview/nintendoeverything.com/game-freak-on-pokemons-sustained-success-keeping-the-main-games-on-handhelds-more/index.html">Link</a>
+        <div class="comments">
+
+
+        </div>
+      </section>
+      <section>
+        <h2>About this Website</h2>
+        <a href="file:////home/steve/webcache-installer/src/websites/Apple_Idiots_MACOSXAUTOMATION/macosxautomation.com/about.html">Link</a>
+        <div class="comments">
+
+
+        </div>
+      </section>
+      <section>
+        <h2>Git Interactive Rebase, Squash, Amend and Other Ways of Rewriting History</h2>
+        <a href="file:////home/steve/webcache-installer/src/websites/ThoughtBot_InteractiveGitRebase_SquashMultipleCommits/robots.thoughtbot.com/git-interactive-rebase-squash-amend-rewriting-history.html">Link</a>
+        <div class="comments">
+
+
+        </div>
+      </section>
+      <section>
+        <h2>El Camino Legal LLP - Tech and Media</h2>
+        <a href="file:////home/steve/webcache-installer/src/websites/ElCamino_React_License/www.elcaminolegal.com/single-post/2016/10/04/Facebook-Reactjs-License.html">Link</a>
+        <div class="comments">
+
+
+        </div>
+      </section>
+      <section>
+        <h2>404 Not Found - A Coloring Book by The Oatmeal </h2>
+        <a href="file:////home/steve/webcache-installer/src/websites/TheOatmeal_ExplanationOfIE/theoatmeal.com/robots.txt.html">Link</a>
+        <div class="comments">
+
+
+        </div>
+      </section>
+      <section>
+        <h2>404 Not Found - A Coloring Book by The Oatmeal </h2>
+        <a href="file:////home/steve/webcache-installer/src/websites/TheOatmeal_ExplanationOfIE/theoatmeal.com/css/cbook_photos.jpg.html">Link</a>
+        <div class="comments">
+
+
+        </div>
+      </section>
+      <section>
+        <h2>404 Not Found - A Coloring Book by The Oatmeal </h2>
+        <a href="file:////home/steve/webcache-installer/src/websites/TheOatmeal_ExplanationOfIE/theoatmeal.com/css/fonts/bebasneue.eot.html">Link</a>
+        <div class="comments">
+
+
+        </div>
+      </section>
+      <section>
+        <h2>When to use i.e. in a sentence - The Oatmeal</h2>
+        <a href="file:////home/steve/webcache-installer/src/websites/TheOatmeal_ExplanationOfIE/theoatmeal.com/comics/ie.html">Link</a>
+        <div class="comments">
+
+
+        </div>
+      </section>
+      <section>
+        <h2>On undoing, fixing, or removing commits in git</h2>
+        <a href="file:////home/steve/webcache-installer/src/websites/Git_FIXME/sethrobertson.github.io/GitFixUm/fixup.html">Link</a>
+        <div class="comments">
+
+
+        </div>
+      </section>
+      <section>
+        <h2>This $1,500 Toaster Oven Is Everything That's Wrong With Silicon Valley Design | Co.Design | business + design</h2>
+        <a href="file:////home/steve/webcache-installer/src/websites/ToasterOverGoneWrong2016/www.fastcodesign.com/3065667/this-1500-toaster-oven-is-everything-thats-wrong-with-silicon-valley-design.html">Link</a>
+        <div class="comments">
+
+
+        </div>
+      </section>
+      <section>
+        <h2>Video Embed: [lU5wAnvA]</h2>
+        <a href="file:////home/steve/webcache-installer/src/websites/ToasterOverGoneWrong2016/www.fastcompany.com/embed/lU5wAnvA?poster=twistage&pos=inline&veggiemode=1&zone=%2F4160%2Fmv.fcdesign%2Finnovation%2Finnovation.html">Link</a>
+        <div class="comments">
+
+
+        </div>
+      </section>
+      <section>
+        <h2>shell - Play subtitles automatically with mpv - Unix &amp; Linux Stack Exchange</h2>
+        <a href="file:////home/steve/webcache-installer/src/websites/StackExchangeUnix_HowToAddSubsFileToMPV/unix.stackexchange.com/questions/279884/play-subtitles-automatically-with-mpv.html">Link</a>
+        <div class="comments">
+
+
+        </div>
+      </section>
+      <section>
+        <h2>Arch Linux - Keeping it Simple</h2>
+        <a href="file:////home/steve/webcache-installer/src/websites/RedditComArchLinux/reddit.com/r/archlinux.html">Link</a>
+        <div class="comments">
+
+
+        </div>
+      </section>
+      <section>
+        <h2>My keyboard is dope. Why can't I get a girlfriend? : MechanicalKeyboards</h2>
+        <a href="file:////home/steve/webcache-installer/src/websites/RedditMechanicalKeyboards_MyKeyboardIsDope/www.reddit.com/r/MechanicalKeyboards/comments/5f442t/my_keyboard_is_dope_why_cant_i_get_a_girlfriend/index.html">Link</a>
+        <div class="comments">
+
+
+        </div>
+      </section>
+      <section>
+        <h2>How to sync GreaseMonkey scripts between computers? - Super User</h2>
+        <a href="file:////home/steve/webcache-installer/src/websites/SuperUser_SyncGreasemonkeyScriptsBetweenComputers/superuser.com/questions/2675/how-to-sync-greasemonkey-scripts-between-computers.html">Link</a>
+        <div class="comments">
+
+
+        </div>
+      </section>
+      <section>
+        <h2>Pokémon Sun: Fan Edition (Nintendo 3DS): Amazon.co.uk: PC &amp; Video Games</h2>
+        <a href="file:////home/steve/webcache-installer/src/websites/pkm_sam/www.amazon.co.uk/Pokémon-Sun-Fan-Nintendo-3DS/dp/B01IHJDZCU/ref=pd_cp_14_3?_encoding=UTF8&psc=1&refRID=9QB8S0C4M5HZFRFRY3XT.html">Link</a>
+        <div class="comments">
+
+
+        </div>
+      </section>
+      <section>
+        <h2>Pokémon Sun: Fan Edition (Nintendo 3DS): Amazon.co.uk: PC &amp; Video Games</h2>
+        <a href="file:////home/steve/webcache-installer/src/websites/pkm_sam/www.amazon.co.uk/Pokémon-Sun-Fan-Nintendo-3DS/dp/B01IHJDZCU/"+t.image+".html">Link</a>
+        <div class="comments">
+
+
+        </div>
+      </section>
+      <section>
+        <h2>Pokémon Sun: Fan Edition (Nintendo 3DS): Amazon.co.uk: PC &amp; Video Games</h2>
+        <a href="file:////home/steve/webcache-installer/src/websites/pkm_sam/www.amazon.co.uk/Pokémon-Sun-Fan-Nintendo-3DS/dp/B01IHJDZCU/<.html">Link</a>
+        <div class="comments">
+
+
+        </div>
+      </section>
+      <section>
+        <h2>Pokémon Sun: Fan Edition (Nintendo 3DS): Amazon.co.uk: PC &amp; Video Games</h2>
+        <a href="file:////home/steve/webcache-installer/src/websites/pkm_sam/www.amazon.co.uk/Pokémon-Sun-Fan-Nintendo-3DS/dp/B01IHJDZCU/"+t.src+".html">Link</a>
+        <div class="comments">
+
+
+        </div>
+      </section>
+      <section>
+        <h2>Pokémon Sun: Fan Edition (Nintendo 3DS): Amazon.co.uk: PC &amp; Video Games</h2>
+        <a href="file:////home/steve/webcache-installer/src/websites/pkm_sam/www.amazon.co.uk/Pokémon-Sun-Fan-Nintendo-3DS/dp/B01IHJDZCU/\"https:/images-eu.ssl-images-amazon.com/images/G/02/x-locale/communities/tags/snake._CB192562133_.gif\".html">Link</a>
+        <div class="comments">
+
+
+        </div>
+      </section>
+      <section>
+        <h2>CSS Vertical Align for Everyone (Dummies Included) – OutSystems Experts – Medium</h2>
+        <a href="file:////home/steve/webcache-installer/src/websites/Medium_CSSVerticalAlignForEveryone/medium.com/outsystems-experts/css-vertical-align-for-everyone-dummies-included-44af86f4ba40.html">Link</a>
+        <div class="comments">
+
+
+        </div>
+      </section>
+      <section>
+        <h2>After a Three-Year Hiatus, Blank Banshee Breaks His Silence with “MEGA” &laquo; Bandcamp Daily</h2>
+        <a href="file:////home/steve/webcache-installer/src/websites/MEGA_interview/daily.bandcamp.com/2016/10/17/blank-banshee-interview/index.html">Link</a>
+        <div class="comments">
+
+
+        </div>
+      </section>
+      <section>
+        <h2>'Extreme surveillance' becomes UK law with barely a whimper | World news | The Guardian</h2>
+        <a href="file:////home/steve/webcache-installer/src/websites/TheGuardian_Extreme_Surveilance_Becomes_UK_Law/www.theguardian.com/world/2016/nov/19/extreme-surveillance-becomes-uk-law-with-barely-a-whimper.html">Link</a>
+        <div class="comments">
+
+
+        </div>
+      </section>
+      <section>
+        <h2>Programming books you might want to consider reading</h2>
+        <a href="file:////home/steve/webcache-installer/src/websites/Programming_Books_might_be_interested/danluu.com/programming-books/index.html">Link</a>
+        <div class="comments">
+
+
+        </div>
+      </section>
+      <section>
+        <h2>Peter Higgs: I wouldn't be productive enough for today's academic system | Science | The Guardian</h2>
+        <a href="file:////home/steve/webcache-installer/src/websites/Higgs_Boson_creator_academia/www.theguardian.com/science/2013/dec/06/peter-higgs-boson-academic-system.html">Link</a>
+        <div class="comments">
+
+
+        </div>
+      </section>
+      <section>
+        <h2>404</h2>
+        <a href="file:////home/steve/webcache-installer/src/websites/nyancat_telnet_client/nyancat.dakko.us/robots.txt.html">Link</a>
+        <div class="comments">
+
+
+        </div>
+      </section>
+      <section>
+        <h2>Nyan Cat Telnet Server</h2>
+        <a href="file:////home/steve/webcache-installer/src/websites/nyancat_telnet_client/nyancat.dakko.us/index.html">Link</a>
+        <div class="comments">
+
+
+        </div>
+      </section>
+      <section>
+        <h2>Nintendo Classic Mini: Nintendo Entertainment System launches 11th November and includes 30 classic NES games | News | Nintendo</h2>
+        <a href="file:////home/steve/webcache-installer/src/websites/nintendocouk_Nintendo_Classic_Mini__Nintendo_Entertainment_System_launches_11th_November_and_includes_30_classic_NES_games_171020161822/www.nintendo.co.uk/News/2016/July/Nintendo-Classic-Mini-Nintendo-Entertainment-System-launches-11th-November-and-includes-30-classic-NES-games-1124170.html">Link</a>
+        <div class="comments">
+
+
+        </div>
+      </section>

@@ -56,6 +56,10 @@ for root, dirs, files in os.walk(str(os.path.abspath(os.path.join(os.path.dirnam
           html_index_file_read.close()
           # Now that we have the contents of the file, we need to read it line
           # by line so that the HTML file is fully read.
+
+          
+          # This is where the titles for each of the index files are found.
+          
           for line in html_index_file_data:
             # strip any whitespace from either side of the line
             line = line.rstrip()
@@ -65,12 +69,12 @@ for root, dirs, files in os.walk(str(os.path.abspath(os.path.join(os.path.dirnam
 
             # If the line matches...
             if title_match:
+            
+              line_after = line.partition("<title>")
+              line = line_after[2].partition("</title>")
+              line = str(line[0])
 
-              # Remove the title beginning tag
-              line = line.replace("<title>", "")
-
-              # Remove the ending title tag
-              line = line.replace("</title>", "")
+              print(line)
 
               # Remove the special character /
 
