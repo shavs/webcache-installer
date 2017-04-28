@@ -41,6 +41,11 @@ wget --convert-links --warc-file="$webarc" \
      --adjust-extension --page-requisites --no-parent --no-verbose --wait=1 \
      --user-agent=Mozilla --span-hosts "$1"
 
+# Before we move out of this, we might as well store the original
+# URL inside of the folder, as it may be of some use later on.
+
+echo "$1" > "original_url.txt";
+
 # After this has been done, we are then going to change
 # back to the original directory
 cd "$currentdir";
